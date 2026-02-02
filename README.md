@@ -29,6 +29,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/ea56390953b80d8ab6e341288f8ef4bac64b2927bf45852db8181bbd10582e3e/68747470733a2f2f747970656f726d2e696f2f696d672f747970656f726d2d69636f6e2d77686974652e706e67" title="TypeORM" alt="TypeORM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
