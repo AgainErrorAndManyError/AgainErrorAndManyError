@@ -1,4 +1,4 @@
-### Всем приветик "( ◡‿◡ ) ❤ 
+### Всем приветик ( ◡‿◡ ) ❤ 
 
 <div align="center">
   <img src="https://github.com/AgainErrorAndManyError/AgainErrorAndManyError/blob/main/img/header.webp" width="600" height="350"/>
