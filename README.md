@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AgainErrorAndManyError/AgainErrorAndManyError/main/public/img/header.webp" width="600" height="300"/>
+  <img src="https://github.com/AgainErrorAndManyError/AgainErrorAndManyError/blob/main/img/header.webp" width="600" height="300"/>
 </div>
 
 ## 👩‍💻 About Me :
